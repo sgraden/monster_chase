@@ -54,7 +54,7 @@
         };
 
         //Lets play
-        var then = Date.now();
+        then = Date.now();
         reset();
         main();
     };     
